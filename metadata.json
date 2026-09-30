@@ -1,0 +1,10 @@
+{
+  "name": "Remix Zoya - AI Voice Assistant",
+  "description": "A soft, polite, cute, warm, and realistic Bengali female AI voice assistant - Zara.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
